@@ -1,0 +1,15 @@
+C:\Users\younu\source\repos\SurvayApp\bin\Debug\Database.mdf
+C:\Users\younu\source\repos\SurvayApp\bin\Debug\Database_log.ldf
+C:\Users\younu\source\repos\SurvayApp\obj\Debug\SurvayApp.AdminSurveyForm.resources
+C:\Users\younu\source\repos\SurvayApp\obj\Debug\SurvayApp.Properties.Resources.resources
+C:\Users\younu\source\repos\SurvayApp\obj\Debug\SurvayApp.LoginForm.resources
+C:\Users\younu\source\repos\SurvayApp\obj\Debug\SurvayApp.RegistrationForm.resources
+C:\Users\younu\source\repos\SurvayApp\obj\Debug\SurvayApp.SurveyForm.resources
+C:\Users\younu\source\repos\SurvayApp\obj\Debug\SurvayApp.csproj.GenerateResource.cache
+C:\Users\younu\source\repos\SurvayApp\obj\Debug\SurvayApp.csproj.CoreCompileInputs.cache
+C:\Users\younu\source\repos\SurvayApp\obj\Debug\SurvayApp.exe
+C:\Users\younu\source\repos\SurvayApp\obj\Debug\SurvayApp.pdb
+C:\Users\younu\source\repos\SurvayApp\obj\Debug\SurvayApp.csprojAssemblyReference.cache
+C:\Users\younu\source\repos\SurvayApp\bin\Debug\SurvayApp.exe.config
+C:\Users\younu\source\repos\SurvayApp\bin\Debug\SurvayApp.exe
+C:\Users\younu\source\repos\SurvayApp\bin\Debug\SurvayApp.pdb

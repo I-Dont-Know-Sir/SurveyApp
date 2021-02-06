@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SurvayApp.AdminSurveyForm" Collapsed="true">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACCGAgAECgegBQEgACAhYCKADgAwNMAAIAgAUAE0AA=</HashCode>
+      <FileName>AdminSurveyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.DatabaseDataSet" Collapsed="true">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAwEJgAJABgAAQAAABAgCQBgAAAAAAQECFBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.LoginForm" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQECAAABAAGAiAAQACACAACAAAAAAAAABAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.Program" Collapsed="true">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.RegistrationForm" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAEEBAAAAiAAQQCACAEAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.SurveyForm" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAEAQAFCgAABEAABuAVgAGECAAgQEAACEAAEEIggI=</HashCode>
+      <FileName>SurveyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.DatabaseDataSetTableAdapters.SurveyAnswerTableAdapter" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAACAcAIAAAAAAAACEICAAAAAAAAAAARBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.DatabaseDataSetTableAdapters.SurveyInfoTableAdapter" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.DatabaseDataSetTableAdapters.SurveyQuestionTableAdapter" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.DatabaseDataSetTableAdapters.UsersTableAdapter" Collapsed="true">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.DatabaseDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAACAAAADABEEBAAAAMAAgQAACgAAAAAQAAEIQFAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.Properties.Resources" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurvayApp.Properties.Settings" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
